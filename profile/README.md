@@ -1,6 +1,6 @@
-# DIDAflow
+# Didaflow
 
-DIDAflow builds **data and AI tools for smarter decisions in higher education**.
+Didaflow builds **data and AI tools for smarter decisions in higher education**.
 
 We help universities and academic teams turn complex student and program data into
 clear insights, actionable signals, and measurable improvements.
@@ -18,7 +18,7 @@ clear insights, actionable signals, and measurable improvements.
 - **Aligned with quality assurance workflows** (e.g. ANVUR / AVA)
 
 ## Product mindset
-DIDAflow is developed as a product, not a research prototype:
+Didaflow is developed as a product, not a research prototype:
 - metrics over raw data
 - reproducible pipelines
 - fast iteration with institutional feedback
@@ -33,5 +33,5 @@ Some repositories may be experimental or internal.
 
 ---
 
-DIDAflow is an early-stage initiative at the intersection of
+Didaflow is an early-stage initiative at the intersection of
 education, data science, and AI.
